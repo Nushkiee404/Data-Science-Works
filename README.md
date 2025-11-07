@@ -55,8 +55,7 @@ gesture-volume-control/
 
 ---
 
-## 🌟 Future Improvements
-- ✨ Add gesture-based brightness control  
+## 🌟 Future Improvements 
 - 🎮 Integrate gesture recognition with media playback  
 - ☁️ Deploy as a real-time web app using Streamlit  
 
@@ -70,3 +69,4 @@ gesture-volume-control/
 ---
 
 ⭐ *If you like this project, don’t forget to star the repo!*
+
